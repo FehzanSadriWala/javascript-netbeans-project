@@ -1,0 +1,14 @@
+SMAP
+BloodInfo_jsp.java
+JSP
+*S JSP
+*F
++ 0 BloodInfo.jsp
+BloodInfo.jsp
+*L
+1,40:44
+41:84,3
+42,31:87
+73:118,3
+74,3:121
+*E

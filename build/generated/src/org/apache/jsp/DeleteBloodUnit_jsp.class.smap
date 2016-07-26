@@ -1,0 +1,20 @@
+SMAP
+DeleteBloodUnit_jsp.java
+JSP
+*S JSP
+*F
++ 0 DeleteBloodUnit.jsp
+DeleteBloodUnit.jsp
+*L
+1,68:44
+69:112,3
+70:115
+71,3:117
+73,70:120
+142,3:190
+144,3:193
+146,2:196
+147:198
+148:199,3
+149,2:202
+*E

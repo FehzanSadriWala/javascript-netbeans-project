@@ -1,0 +1,14 @@
+SMAP
+HealthTips_jsp.java
+JSP
+*S JSP
+*F
++ 0 HealthTips.jsp
+HealthTips.jsp
+*L
+1,40:44
+41:84,3
+42,43:87
+85:130,3
+86,3:133
+*E

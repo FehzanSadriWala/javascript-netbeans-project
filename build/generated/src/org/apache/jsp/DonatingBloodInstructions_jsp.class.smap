@@ -1,0 +1,14 @@
+SMAP
+DonatingBloodInstructions_jsp.java
+JSP
+*S JSP
+*F
++ 0 DonatingBloodInstructions.jsp
+DonatingBloodInstructions.jsp
+*L
+1,40:44
+41:84,3
+42,44:87
+86:131,3
+87,3:134
+*E
